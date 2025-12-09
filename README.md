@@ -13,10 +13,10 @@
   <a href="mailto:sabbir200226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/SabbirSoftEngr">
+  <a href="https://www.linkedin.com/in/md-sabbir-hossain-853918258">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://facebook.com/SabbirSoftEngr">
+  <a href="https://www.facebook.com/profile.php?id=100014914990861">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://stackoverflow.com/users/story/SabbirSoftEngr">
